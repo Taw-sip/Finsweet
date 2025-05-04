@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://192.168.0.112:3000/index.html",
+            "request": "launch",
+            "url": "http://192.168.0.112:3000/index.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://192.168.0.112:3000/service.html",
+            "request": "launch",
+            "url": "http://192.168.0.112:3000/service.html"
+        }
+    ]
+}
