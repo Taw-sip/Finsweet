@@ -11,6 +11,12 @@
             "name": "http://192.168.0.112:3000/service.html",
             "request": "launch",
             "url": "http://192.168.0.112:3000/service.html"
+        },
+        {
+            "type": "chrome",
+            "name": "http://192.168.0.112:3000/about.html",
+            "request": "launch",
+            "url": "http://192.168.0.112:3000/about.html"
         }
     ]
 }
